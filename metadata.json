@@ -1,0 +1,7 @@
+{
+  "name": "Hoora Ranchi - Doorstep Detailing",
+  "description": "Premium on-demand eco-friendly car and bike wash service delivering showroom quality directly to your doorstep in Ranchi. Powered by Hoora.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
